@@ -1,1 +1,1 @@
-# DeepLearning-Image-Classification-Using-CNN-RockPaperScissor-
+# DeepLearning-Image-Classification-Using-CNN-RockPaperScissor
